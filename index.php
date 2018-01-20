@@ -1,6 +1,5 @@
 <?php
     require_once("_layout.php");
-    require_once("model/PersonModel.php");
     echo HTML_HEADER("Layout");//Here you can chaenge the title of the page
 ?>
 
